@@ -1,5 +1,6 @@
 # Chat de Conversas
-Chat feito em Nodejs com Typescript.
+Chat feito em NodeJS com Typescript.
+- Typescript, Express e o Socket.io...
 
 <h4 align="center"> Páginas de conversa: </h4>
 <p align="center">
